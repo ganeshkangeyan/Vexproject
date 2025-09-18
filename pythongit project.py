@@ -12,8 +12,5 @@ bc.append("uuuuuu")
 print(bc)
 bc.insert(6,c)
 print(bc)
-<<<<<<< HEAD
 print ("hello")
 # add new from pythongitProject  from download
-=======
->>>>>>> 5a4e5d650c6245beaad6bfbfacb6547c834e0645
